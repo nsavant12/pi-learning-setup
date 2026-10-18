@@ -1,0 +1,26 @@
+# Only source belongs in this repository.
+__pycache__/
+*.py[cod]
+.DS_Store
+node_modules/
+.test-runtime/
+.test-upstream/
+.test-output/
+.env
+.env.*
+auth.json
+settings.json
+models.json
+learning-setup.json
+*.jsonl
+*.log
+backups/
+sessions/
+Lessons/
+viz/
+learning-state.json
+learning-health.json
+*.gguf
+*.safetensors
+*.pt
+*.pth
